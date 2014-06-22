@@ -1,3 +1,5 @@
+#include <math.h>
+
 Vector::Vector()
 {
     this->a = 0;
